@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Diego Andrés
-- 👀 I’m interested in ...
 - 🌱 I’m currently studying Systems Engineering at EAFIT University
 - 📫 How to reach me @xDiegoAGG
 <!---
