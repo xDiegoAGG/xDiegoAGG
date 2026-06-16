@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:00BFFF,100:1E90FF&height=200&section=header&text=Diego%20Gonzalez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:00BFFF,100:1E90FF&height=200&section=header&text=Diego%20Gonzalez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn&reversal=false" alt="header"/>
 </a>
 
 <div align="center">
@@ -35,7 +35,7 @@ fun_fact:    "My friends say I look like a penguin... and I just happen to love 
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNyY3AyNmN5aDE5NjYxaHl3M3E0b3oyYmxnaXhsZTkycG8yODE0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="220" alt="Penguin"/>
+<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="220" alt="Penguin"/>
 
 > _"My friends say I look like a penguin... and I just happen to love **Linux**. What a coincidence."_ 🐧💙
 
@@ -111,7 +111,7 @@ fun_fact:    "My friends say I look like a penguin... and I just happen to love 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:87CEEB&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:87CEEB&height=120&section=footer&reversal=false" alt="footer"/>
 
 <div align="center">
   <i>🐧 Thanks for visiting.</i>
