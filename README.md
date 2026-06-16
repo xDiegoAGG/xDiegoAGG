@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:00BFFF,100:1E90FF&height=200&section=header&text=Diego%20Gonzalez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn&reversal=false" alt="header"/>
+  <img width="100%" src="./assets/header.svg" alt="header"/>
 </a>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="./assets/about.gif" width="28"> About Me
 
 ```yaml
 name:        Diego Andrés Gonzalez
@@ -35,7 +35,7 @@ fun_fact:    "My friends say I look like a penguin... and I just happen to love 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="220" alt="Penguin"/>
+<img src="./assets/penguin.gif" width="220" alt="Penguin"/>
 
 > _"My friends say I look like a penguin... and I just happen to love **Linux**. What a coincidence."_ 🐧💙
 
@@ -88,9 +88,6 @@ fun_fact:    "My friends say I look like a penguin... and I just happen to love 
 <img width="49%" src="https://streak-stats.demolab.com?user=xDiegoAGG&hide_border=true&background=00000000&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF&sideLabels=87CEEB&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=87CEEB" alt="streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xDiegoAGG&bg_color=00000000&color=00BFFF&line=00BFFF&point=1E90FF&area=true&hide_border=true" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=xDiegoAGG&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 </div>
 
 ---
@@ -111,7 +108,7 @@ fun_fact:    "My friends say I look like a penguin... and I just happen to love 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:87CEEB&height=120&section=footer&reversal=false" alt="footer"/>
+<img width="100%" src="./assets/footer.svg" alt="footer"/>
 
 <div align="center">
   <i>🐧 Thanks for visiting.</i>
