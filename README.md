@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="./assets/header.svg" alt="header"/>
+  <img width="100%" src="./assets/banner.svg" alt="header"/>
 </a>
 
 <div align="center">
